@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Deeksha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%C2%B7%20PHP%2FLaravel%20%C2%B7%20MongoDB&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Deeksha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20PHP%2FLaravel%20%C2%B7%20Node.js%20%C2%B7%20MongoDB&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=6C63FF" alt="followers"/>
@@ -14,19 +14,19 @@
 
 ```yaml
 name: Deeksha
-location: "[Your City, India]"
-role: Full-Stack Developer (Node.js + PHP)
+location: "Noida, Uttar Pradesh, India"
+role: Backend Developer (PHP/Laravel + Node.js)
 experience: Backend-heavy, building APIs and automation systems
 specializations:
-  - Node.js (Express, REST APIs, async workflows)
   - PHP / Laravel (Eloquent, Queues, Middleware)
-  - MongoDB (Atlas) & MySQL
+  - MySQL
+  - Node.js (Express, REST APIs, async workflows)
+  - MongoDB (Atlas)
   - Automation & bots (Puppeteer)
 currently_learning:
-  - AWS Serverless (Lambda, API Gateway)
-  - System design for payment / fintech platforms
-  - CI/CD & DevOps practices
-open_to: Full-time roles, backend/full-stack challenges, collaborations
+  - Python
+  - AI / Machine Learning
+open_to: Full-time roles, backend challenges, collaborations
 ```
 
 <br/>
@@ -35,18 +35,18 @@ open_to: Full-time roles, backend/full-stack challenges, collaborations
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
