@@ -72,12 +72,6 @@ open_to: Full-time roles, backend challenges, collaborations
 
 <br/>
 
-### 📌 Featured Projects
-Project	Description	Tech Stack
-github-profile-analyzer	Full-stack app to analyze GitHub profiles	Node.js, Express, TypeScript, React, Tailwind (Vite)
-task-manager-api	Production-style RESTful API for task management with CRUD, filtering, pagination & centralized error handling	Node.js, Express, MongoDB, Mongoose
-<br/>
-
 ### 🌐 Connect With Me
 
 <div align="center">
