@@ -89,3 +89,8 @@ open_to: Full-time roles, backend challenges, collaborations
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=100&section=footer" width="100%"/>
+
+<div align="center">
+
+"Code is like humor. When you have to explain it, it's bad." — Cory House
+</div>
