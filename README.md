@@ -55,10 +55,10 @@ open_to: Full-time roles, backend challenges, collaborations
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=backendbydeeksha&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=backendbydeeksha&theme=radical&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backendbydeeksha&layout=compact&theme=radical&hide_border=true" width="49%"/>
 
 </div>
 
@@ -68,11 +68,11 @@ open_to: Full-time roles, backend challenges, collaborations
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/github-profile-analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=github-profile-analyzer&theme=radical&hide_border=true"/>
+<a href="https://github.com/backendbydeeksha/github-profile-analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=backendbydeeksha&repo=github-profile-analyzer&theme=radical&hide_border=true"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/task-manager-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=task-manager-api&theme=radical&hide_border=true"/>
+<a href="https://github.com/backendbydeeksha/task-manager-api">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=backendbydeeksha&repo=task-manager-api&theme=radical&hide_border=true"/>
 </a>
 
 </div>
@@ -83,7 +83,7 @@ open_to: Full-time roles, backend challenges, collaborations
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/deeksha-dhiman-india"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:deekshadhiman321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
