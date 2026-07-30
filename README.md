@@ -73,18 +73,9 @@ open_to: Full-time roles, backend challenges, collaborations
 <br/>
 
 ### 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/backendbydeeksha/github-profile-analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=backendbydeeksha&repo=github-profile-analyzer&theme=radical&hide_border=true"/>
-</a>
-<a href="https://github.com/backendbydeeksha/task-manager-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=backendbydeeksha&repo=task-manager-api&theme=radical&hide_border=true"/>
-</a>
-
-</div>
-
+Project	Description	Tech Stack
+github-profile-analyzer	Full-stack app to analyze GitHub profiles	Node.js, Express, TypeScript, React, Tailwind (Vite)
+task-manager-api	Production-style RESTful API for task management with CRUD, filtering, pagination & centralized error handling	Node.js, Express, MongoDB, Mongoose
 <br/>
 
 ### 🌐 Connect With Me
