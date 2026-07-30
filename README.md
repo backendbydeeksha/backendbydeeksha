@@ -22,7 +22,6 @@ specializations:
   - MySQL
   - Node.js (Express, REST APIs, async workflows)
   - MongoDB (Atlas)
-  - Automation & bots (Puppeteer)
 currently_learning:
   - Python
   - AI / Machine Learning
