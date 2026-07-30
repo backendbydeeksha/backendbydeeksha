@@ -1,16 +1,93 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**backendbydeeksha/backendbydeeksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Deeksha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%C2%B7%20PHP%2FLaravel%20%C2%B7%20MongoDB&descAlignY=55&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=6C63FF" alt="followers"/>
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00C9A7?style=flat" alt="status"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br/>
+
+### 🤖 About Me
+
+```yaml
+name: Deeksha
+location: "[Your City, India]"
+role: Full-Stack Developer (Node.js + PHP)
+experience: Backend-heavy, building APIs and automation systems
+specializations:
+  - Node.js (Express, REST APIs, async workflows)
+  - PHP / Laravel (Eloquent, Queues, Middleware)
+  - MongoDB (Atlas) & MySQL
+  - Automation & bots (Puppeteer)
+currently_learning:
+  - AWS Serverless (Lambda, API Gateway)
+  - System design for payment / fintech platforms
+  - CI/CD & DevOps practices
+open_to: Full-time roles, backend/full-stack challenges, collaborations
+```
+
+<br/>
+
+### 🛠️ Tech Stack
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white"/>
+
+</div>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="49%"/>
+
+</div>
+
+<br/>
+
+### 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/github-profile-analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=github-profile-analyzer&theme=radical&hide_border=true"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/task-manager-api">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=task-manager-api&theme=radical&hide_border=true"/>
+</a>
+
+</div>
+
+<br/>
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:deekshadhiman321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=100&section=footer" width="100%"/>
