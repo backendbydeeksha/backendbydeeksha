@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Deeksha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20PHP%2FLaravel%20%C2%B7%20Node.js%20%C2%B7%20MongoDB&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=6C63FF" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=backendbydeeksha&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/backendbydeeksha?label=Followers&style=flat&color=6C63FF" alt="followers"/>
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00C9A7?style=flat" alt="status"/>
 
 </div>
