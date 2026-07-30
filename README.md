@@ -13,7 +13,7 @@
 ### 🤖 About Me
 
 ```yaml
-name: Deeksha
+name: Deeksha Dhiman
 location: "Noida, Uttar Pradesh, India"
 role: Backend Developer (PHP/Laravel + Node.js)
 experience: Backend-heavy, building APIs and automation systems
